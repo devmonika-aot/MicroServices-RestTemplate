@@ -1,0 +1,13 @@
+com\microservices\product\exception\ProductServiceException.class
+com\microservices\product\service\ProductService.class
+com\microservices\product\controller\ProductController.class
+com\microservices\product\entity\Product.class
+com\microservices\product\exception\ProductServiceExceptionHandler.class
+com\microservices\product\entity\Product$ProductBuilder.class
+com\microservices\product\model\ErrorResponse$ErrorResponseBuilder.class
+com\microservices\product\exception\ProductServiceException$ProductServiceExceptionBuilder.class
+com\microservices\product\model\ProductRequest.class
+com\microservices\product\repository\ProductRepository.class
+com\microservices\product\model\ErrorResponse.class
+com\microservices\product\ProductApplication.class
+com\microservices\product\service\ProductServiceImpl.class
